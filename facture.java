@@ -4,11 +4,6 @@
  */
 package com.mycompany.appfacture;
 
-/**
- *
- * @author hp
- */
-
 
 import java.awt.Graphics;
 import java.awt.Image;
